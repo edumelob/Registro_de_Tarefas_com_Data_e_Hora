@@ -16,10 +16,3 @@ Ideal para iniciantes que desejam praticar manipulação de datas e persistênci
 ##  Tecnologias usadas
 - Python 3+
 - Módulo `datetime` (biblioteca padrão)
-
----
-
-##  Como executar
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seuusuario/task_logger.git
